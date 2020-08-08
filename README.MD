@@ -7,9 +7,9 @@
     学习阶段将使用原生Springboot及VUE  
     后期我会将整个开发周期的代码归档至github，视频上传至云盘或者B站。欢迎交流  
 ###资料地址  
-    idea：      https://www.jetbrains.com/idea/     
-    spring框架： https://spring.io/  
-    git:        https://git-scm.com/downloads  
-    VUE.js:     https://vuejs.org/  
+  *  idea：      https://www.jetbrains.com/idea/     
+  *  spring框架： https://spring.io/  
+  *  git:        https://git-scm.com/downloads  
+  *  VUE.js:     https://vuejs.org/  
 
     
